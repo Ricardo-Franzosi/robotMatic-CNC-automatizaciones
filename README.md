@@ -2,6 +2,10 @@
 
 Sitio web institucional de **robotMatic CNC Automatizaciones**.
 
+## Dirección oficial
+
+**Martín Peschel 1630, Loma Hermosa, B1657, Buenos Aires, Argentina.**
+
 ## Primera versión
 
 La web está construida como sitio estático, sin dependencias de compilación:
@@ -35,7 +39,7 @@ El sitio puede publicarse directamente desde este repositorio mediante GitHub Pa
 ## Próximas etapas sugeridas
 
 1. Definir identidad final: logo, colores y tipografía.
-2. Incorporar información real de contacto y WhatsApp.
+2. Incorporar teléfono, WhatsApp y correo electrónico reales.
 3. Incorporar proyectos/casos reales con fotos, máquinas y resultados.
 4. Definir marcas y tecnologías efectivamente soportadas.
 5. Añadir formulario de consulta.
